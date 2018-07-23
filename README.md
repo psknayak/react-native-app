@@ -1,5 +1,3 @@
-# React Native Workshop
-
-Covered in this branch:
+# React Native App
 
 - Starting up!
